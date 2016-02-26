@@ -17,8 +17,8 @@ Google has all of the answers. Start slow and use smart searching for things lik
 * In the directory, type `gem install json` (`gem` is like npm for ruby)
 * Type `ruby google_shopping.rb`
 * open the file `subl google_shopping.rb` 
-* ???
 * Finish the problems below
+* ???
 * Profit
 
 ##Assignment (Déjà vu)
