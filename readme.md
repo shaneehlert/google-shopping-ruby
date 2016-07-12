@@ -33,3 +33,9 @@ Use the product search result in your file to check the following:
 5.) Find all `items` that have **product** **author** **name** of "eBay" and are brand "Canon".
 
 6.) Print all the products with their **brand**, **price**, and a **image link**
+
+---
+
+## Licensing
+1. All content is licensed under a CC-BY-NC-SA 4.0 license.
+2. All software code is licensed under GNU GPLv3. For commercial use or alternative licensing, please contact legal@ga.co.
